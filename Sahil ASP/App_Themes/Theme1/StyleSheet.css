@@ -1,0 +1,26 @@
+﻿body {
+    margin:0;
+    padding:0;
+}
+
+#Label1{
+
+    font-size:25px;
+}
+.label{
+    background-color: yellow;
+    color:blue;
+    font-size:16px;
+}
+
+.input{
+    background-color:pink;
+    color:black;
+    font-size:16px;
+}
+
+.btn{
+    background-color:red;
+    color:green;
+    font-size:16px;
+}
